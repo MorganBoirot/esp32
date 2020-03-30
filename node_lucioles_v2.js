@@ -1,3 +1,5 @@
+// M.BOIROT L.SOLANA
+
 // Importation des modules
 var path = require('path');
 
